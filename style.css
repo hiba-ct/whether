@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.W5fNmGV-r1C3wGSQKnK5UgHaEo&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#city1{
+    font-size: 3rem;
+}
+#temp{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+
+ 
+
+.col-c{
+    margin-top:5rem;
+}
+.container{
+    background:rgba(230, 6, 6, 0.1);
+    backdrop-filter: blur(40px);
+    padding: 20px;
+    border-radius: 16px;
+    color: #fcfafa;
+    height: 550px;
+    width: 500px;
+    position: relative;
+    border: 2px solid rgba(249, 8, 8, 0.824);
+}
+
+
+
